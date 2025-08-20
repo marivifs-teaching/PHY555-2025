@@ -2,7 +2,7 @@
 
 **Instructor:** Marivi Fernandez-Serra, Physics B139, maria.fernandez-serra@stonybrook.edu
 
-**Lecture Time:** Mondays and Wednesdays 9:30-10:50am in B131
+**Lecture Time:** Mondays and Wednesdays 9:30-10:50am
 
 **Web:** https://marivifs-teaching.github.io/PHY555-2024
 
