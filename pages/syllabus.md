@@ -4,7 +4,7 @@
 
 **Lecture Time:** Mondays and Wednesdays 9:30-10:50am
 
-**Web:** https://marivifs-teaching.github.io/PHY555-2024
+**Web:** https://marivifs-teaching.github.io/PHY555-2025
 
 **Office Hours:**
 (Tentatively:) Mondays and Wednesdays 11:00 am - 12:00 pm
@@ -37,8 +37,6 @@ Dielectric screening | VII | 8
 Electron-lattice coupling, phonons | VIII, IX | 4,10
 X-ray, neutron scattering | X | Na
 Optical and transport properties | XI-XIV | 9,11,12
-Magnetic properties | XV-XVII | 15
-Superconductivity | XVIII | 14
 
 
 ## Homework:
@@ -51,7 +49,7 @@ matlab, python, or another language of your choice). **Assignments will be submi
 ## Exams:
 There will be one midterm exam  and a final exam (during the assigned final exam period).
 	
-	* MT Exam Date November 4 (Monday) in Class time
+	* MT Exam Date October 15 (Wednesday) in Class time
 
 The final will be cumulative. The midterm will be worth 20 % of the final grade, and the final
 exam will be worth 30 % of the final grade.
