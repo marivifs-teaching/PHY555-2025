@@ -51,6 +51,26 @@ description: Graduate Solid State Physics, PHY 555 Website.
 </ul>
 </details>
 
+<details>
+  <summary>Lectures 3-4: Bravais Lattice and Reciprocal Lattice</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L3/L3.pdf" target="_blank" rel="noopener noreferrer">Lecture 3 notes</a>  </li>
+   <li> <a href="./pages/Lectures/L3/L3Slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 3 slides</a>  </li>
+   
+    <li> <a href="https://lampz.tugraz.at/~hadley/ss1/bzones/" target="_blank" rel="noopener noreferrer">Brilloin Zones and High Symmetry directions</a>  </li>
+  <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Chapter II </li>
+  </ul>
+  <ul>
+  <li> Ashcroft and Mermin, Chapters 4 & 5</li>
+  </ul>
+  <ul>
+  <li> Cohen and Louie, Chapter II </li>
+  </ul>
+
+
 ## Homework
 
 <details>
