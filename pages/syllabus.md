@@ -7,7 +7,7 @@
 **Web:** https://marivifs-teaching.github.io/PHY555-2025
 
 **Office Hours:**
-(Tentatively:) Mondays and Wednesdays 11:00 am - 12:00 pm
+(Tentatively:) Mondays and Wednesdays 3:30 pm - 4:30 pm
 
 
 ## Texts:

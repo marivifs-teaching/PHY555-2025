@@ -13,7 +13,8 @@ description: Graduate Solid State Physics, PHY 555 Website.
 
 *Lecture room:* B131
 
-*Office Hours:* Mondays and Wednesdays 3:30 pm - 4:30 pm
+*Office Hours:* Mondays and Wednesdays 3:30 pm - 4:30 pm.
+Note Mondays I will be in my IACS office. (The Institute for Advanced Computational Science is housed in the IACS/Laufer building, right next to the Life Sciences building.)
 
 [Syllabus](pages/syllabus.html)
 
@@ -69,6 +70,31 @@ description: Graduate Solid State Physics, PHY 555 Website.
   <ul>
   <li> Cohen and Louie, Chapter II </li>
   </ul>
+  
+    
+</ul>
+</details>
+  
+  <details>
+  <summary>Lecture 5: Tight Binding Band Structure I</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L5/L5.pdf" target="_blank" rel="noopener noreferrer">Lecture 5 notes</a>  </li>
+  <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Chapter I.4 </li>
+  </ul>
+  <ul>
+  <li> Ashcroft and Mermin, Chapter 10 </li>
+  </ul>
+  <ul>
+  <li> Ziman, Chapter 3 </li>
+  </ul>
+
+
+  
+</ul>
+</details>
 
 
 ## Homework
@@ -80,4 +106,13 @@ description: Graduate Solid State Physics, PHY 555 Website.
   <li><a href="./pages/HW/HW1.pdf" target="_blank" rel="noopener noreferrer">Homework 1</a> </li>
 </ul>
 </details>
+
+<details>
+  <summary>Homework 2 (<b>Due 09/19/25</b>)</summary>
+
+<ul>
+  <li><a href="./pages/HW/HW2.pdf" target="_blank" rel="noopener noreferrer">Homework 2</a> </li>
+</ul>
+</details>
+
 
