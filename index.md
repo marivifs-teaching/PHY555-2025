@@ -80,6 +80,8 @@ Note Mondays I will be in my IACS office. (The Institute for Advanced Computatio
 
 <ul>
   <li> <a href="./pages/Lectures/L5/L5.pdf" target="_blank" rel="noopener noreferrer">Lecture 5 notes</a>  </li>
+  
+  <li> <a href="./pages/Lectures/L5/H2plusTB.pdf" target="_blank" rel="noopener noreferrer">H2+ tight binding</a>  </li>
   <li> Readings: </li>
   <ul>
   <li> Grosso and Parravicini, Chapter I.4 </li>
@@ -92,6 +94,32 @@ Note Mondays I will be in my IACS office. (The Institute for Advanced Computatio
   </ul>
 
 
+  
+</ul>
+</details>
+
+<details>
+  <summary>Lecture 6-7: Tight Binding Band Structure II</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L6/L6.pdf" target="_blank" rel="noopener noreferrer">Lecture 6 notes</a>  </li>
+  
+  <li> <a href="./pages/Lectures/L6/L6Slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 6 slides</a>  </li>
+  
+  <li> <a href="./pages/Lectures/L6/Chadi-Cohen.pdf" target="_blank" rel="noopener noreferrer">Chadi-Cohen Paper</a>  </li>
+  
+  <li> <a href="https://github.com/rpmuller/TightBinding/blob/master/chadicohen.ipynb" target="_blank" rel="noopener noreferrer">Chadi-Cohen TB program</a>  </li>
+  
+  <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Chapter I.4 </li>
+  </ul>
+  <ul>
+  <li> Ashcroft and Mermin, Chapter 10 </li>
+  </ul>
+  <ul>
+  <li> Ziman, Chapter 3 </li>
+  </ul>
   
 </ul>
 </details>
