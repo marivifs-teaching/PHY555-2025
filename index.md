@@ -127,6 +127,28 @@ Note Mondays I will be in my IACS office. (The Institute for Advanced Computatio
 </ul>
 </details>
 
+<details>
+  <summary>Lecture 8-9: Nearly Free Electrons and Plane Waves</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L8/L8.pdf" target="_blank" rel="noopener noreferrer">Lecture 8 notes</a>  </li>
+  li> <a href="./pages/Lectures/L9/L9.pdf" target="_blank" rel="noopener noreferrer">Lecture 9 notes</a>  </li>
+  <li> <a href="./pages/Lectures/L8/Lec8-9-slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 8-9 slides</a>  </li>
+  <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Chapter I.5 </li>
+  </ul>
+  <ul>
+  <li> Ashcroft and Mermin, Chapter 9 </li>
+  </ul>
+  <ul>
+  <li> Ziman, Chapter 3 </li>
+  </ul>
+
+  
+</ul>
+</details>
+
 
 ## Homework
 
