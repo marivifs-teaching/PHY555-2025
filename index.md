@@ -169,3 +169,10 @@ Note Mondays I will be in my IACS office. (The Institute for Advanced Computatio
 </details>
 
 
+<details>
+  <summary>Homework 3 (<b>Due 10/14/25</b>)</summary>
+
+<ul>
+  <li><a href="./pages/HW/HW3.pdf" target="_blank" rel="noopener noreferrer">Homework 2</a> </li>
+</ul>
+</details>
