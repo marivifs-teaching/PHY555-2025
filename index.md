@@ -171,7 +171,7 @@ Note Mondays I will be in my IACS office. (The Institute for Advanced Computatio
 
 <ul>
   <li> <a href="./pages/Lectures/L12/L12-13-2025.pdf" target="_blank" rel="noopener noreferrer">Lecture 12-13 notes</a>  </li>
-   <li> <a href="./pages/Lectures/L12/Drude.pdf" target="_blank" rel="noopener noreferrer">Lecture 12 slides</a>  </li>
+   <li> <a href="./pages/Lectures/L12/L12Slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 12 slides</a>  </li>
    <li> <a href="./pages/Lectures/L12/BlochOscillations.ipynb" target="_blank" rel="noopener noreferrer">Bloch Oscillations notebook</a>  </li>
    
       <li> Readings: </li>
