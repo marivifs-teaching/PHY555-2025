@@ -166,6 +166,27 @@ Note Mondays I will be in my IACS office. (The Institute for Advanced Computatio
 </ul>
 </details>
 
+<details>
+  <summary>Lectures 12-13: Electron Dynamics</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L12/L12-13-2025.pdf" target="_blank" rel="noopener noreferrer">Lecture 12-13 notes</a>  </li>
+   <li> <a href="./pages/Lectures/L12/Drude.pdf" target="_blank" rel="noopener noreferrer">Lecture 12 slides</a>  </li>
+   <li> <a href="./pages/Lectures/L12/BlochOscillations.ipynb" target="_blank" rel="noopener noreferrer">Bloch Oscillations notebook</a>  </li>
+   
+      <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Chapter I.4 & I.6 </li>
+  </ul>
+  <ul>
+  <li> Ashcroft and Mermin, Chapter I</li>
+  </ul>
+  <ul>
+  <li> Cohen and Louie, Chapter 3.5 & 9.2 </li>
+  </ul>
+
+
+
 
 
 
