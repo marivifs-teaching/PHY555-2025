@@ -236,6 +236,47 @@ Note Mondays I will be in my IACS office. (The Institute for Advanced Computatio
 </ul>
 </details>
 
+<details>
+  <summary>Lecture 18-19: Thermodynamics of the Crystal Lattice</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L18/L18-19.pdf" target="_blank" rel="noopener noreferrer">Lecture 18-19 notes</a>  </li>
+        
+      <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Grosso and Parravicini, Chapter IX </li>
+  </ul>
+  <ul>
+  <li> Ashcroft and Mermin, Chapter 21, 22</li>
+  </ul>
+  <ul>
+  <li> Cohen and Louie, Chapter 4</li>
+  </ul>
+
+
+  
+</ul>
+</details>
+
+<details>
+  <summary>Lecture 20-21: Measuring phonons and Lattice anharmonicity</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L20/L20-21.pdf" target="_blank" rel="noopener noreferrer">Lecture 20-21 notes</a>  </li>
+        
+      <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Grosso and Parravicini, Chapter IX </li>
+  </ul>
+  <ul>
+  <li> Ashcroft and Mermin, Chapter 21, 22</li>
+  </ul>
+  <ul>
+  <li> Cohen and Louie, Chapter 4</li>
+  </ul>
+
+</ul>
+</details>
 
 
 ## Homework
