@@ -278,6 +278,24 @@ Note Mondays I will be in my IACS office. (The Institute for Advanced Computatio
 </ul>
 </details>
 
+<details>
+  <summary>Lecture 22-23: Many Electron Interactions</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L22/L22-23.pdf" target="_blank" rel="noopener noreferrer">Lecture 22-23 notes</a>  </li>
+        
+      <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Grosso and Parravicini, Chapter iV </li>
+  </ul>
+  <ul>
+  <li> Cohen and Louie, Chapter 6</li>
+  </ul>
+
+
+  
+</ul>
+</details>
 
 ## Homework
 
